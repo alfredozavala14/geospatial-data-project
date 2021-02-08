@@ -1,7 +1,6 @@
 from functools import reduce
 import operator
 import pandas as pd
-import geopandas as gpd
 import numpy as np
 import requests
 from dotenv import load_dotenv
